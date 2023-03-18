@@ -1,0 +1,21 @@
+{
+  "name": "CoffeeCode",
+  "displayName": "CoffeeCode",
+  "description": "Chill vibe pastel color Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CoffeeCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CoffeeCode-color-theme.json"
+      }
+    ]
+  }
+}
